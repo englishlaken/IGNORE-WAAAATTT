@@ -1,0 +1,18 @@
+* text=auto
+
+# Unity WebGL Build Folder
+*.wasm binary
+*.data binary
+*.framework.js text
+*.loader.js text
+*.symbols.json binary
+
+# Unity WebGL TemplateData Folder
+*.css text
+*.js text
+*.png binary
+*.jpg binary
+*.json text
+
+# General HTML/Text
+*.html text
